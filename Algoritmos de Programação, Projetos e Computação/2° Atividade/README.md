@@ -1,0 +1,2 @@
+# 2nd APPC Activity - The payroll
+This repository contains the code for the second activity of the Programming Algorithms, Projects and Computing discipline, where we developed the system, "The payroll", as a group.

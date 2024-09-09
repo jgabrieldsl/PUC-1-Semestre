@@ -1,1 +1,2 @@
-# Projeto_Integrador
+# Integrative Project - 1st Semester PUC Campinas
+This repository contains the code and documentation for the Integrator Project I, focused on the development of an inventory management system. The project aims to create an efficient application to monitor inputs, outputs, sales price calculation and product control, optimizing the inventory management process for small and medium-sized companies.
